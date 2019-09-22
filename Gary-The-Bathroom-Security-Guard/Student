@@ -1,0 +1,11 @@
+When the flag is pressed
+The students are hidden
+When the "1" key is pressed
+The students wait an amount of time and then appear at the rightmost point on the screen
+They begin to move left
+They repeat until they are at the desk, or touching a student in front of them
+If Gary is in the blue zone, and the student is first in line
+They wait two seconds and disappear
+10 seconds later, they reappear and go to line 4
+If one student is touching the other two students 
+The game stops.
