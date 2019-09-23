@@ -1,14 +1,14 @@
 //This code applies for all cockroaches
-When the flag is clicked
+**When** the flag is clicked
   The cockroach is hidden
-  If the number 1 is clicked
+  **If** the number 1 is clicked
     The cockroach waits an amount of time and then appears
     The cockroach appears at the leftmost point on the screen
     The cockroach moves forward until it touches Gary
-  If the cockroach touches Gary
+  **If** the cockroach touches Gary
     The game stops.
-  If the cockroach touches the boomerang and Gary is not holding the boomerang
+  **If** the cockroach touches the boomerang and Gary is not holding the boomerang
     The cockroach disappears for a random amount of time between 5 and 10 seconds
     The cockroach then reappears at the leftmost side and heads forward again
-  If three students line up
+  **If** three students line up
     The cockroach stops moving
