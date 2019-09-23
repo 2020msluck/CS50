@@ -1,12 +1,12 @@
-When the flag is pressed
+**When** the flag is pressed
   The boomerang is hidden
   After five seconds
     It appears, in the same coordinates as Gary
-  The boomerang moves wherever Gary moves, until the space key is pressed
-  If the space key is pressed, and Gary is holding the boomerang, and he is not in the blue zone of the game
+    The boomerang moves wherever Gary moves, until the space key is pressed
+  **If** the space key is pressed, and Gary is holding the boomerang, and he is not in the blue zone of the game
     The boomerang moves forward
-    While Gary is not holding the boomerang, the costume changes by one, making the boomerang spin
-    If the boomerang touches a cockroach
+    **While** Gary is not holding the boomerang, the costume changes by one, making the boomerang spin
+    **If** the boomerang touches a cockroach
       It reverses direction until it gets to Gary.
-    When the boomerang reaches Gary
+    **When** the boomerang reaches Gary
       It stops, and moves with Gary again
