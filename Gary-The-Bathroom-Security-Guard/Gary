@@ -1,22 +1,22 @@
-When the flag is clicked
-Gary's costume is set to facing front
-Gary reads his entire monologue ("Hi I'm Gary" blah blah)
-Gary ends his monologue by saying to press 1 to continue
-If 1 is clicked
-Gary's coordinates are put in garyX and garyY
-The game begins
-If the right arrow is clicked
-Gary faces right
-Gary moves five steps to the right
-If the left arrow is clicked
-Gary faces left
-Gary moves five steps to the left
-If three students line up to check in
-Gary says Oh no and the game ends
-If the period is more than six
-Gary announces he's been fired
-If Gary touches one of the cockroaches
-The game ends.
-If the number of Verona Values cards divided by the period is more than five
-The period increases by one
-The roach speed increases by one
+**When** the flag is clicked
+  Gary's costume is set to facing front
+  Gary reads his entire monologue ("Hi I'm Gary" blah blah)
+  Gary ends his monologue by saying to press 1 to continue
+  **If** 1 is clicked
+    Gary's coordinates are put in garyX and garyY
+    The game begins
+    **If** the right arrow is clicked
+      Gary faces right
+      Gary moves five steps to the right
+    **If** the left arrow is clicked
+      Gary faces left
+      Gary moves five steps to the left
+    **If** three students line up to check in
+      Gary says Oh no and the game ends
+    **If** the period is more than six
+      Gary announces he's been fired
+    **If** Gary touches one of the cockroaches
+      The game ends.
+    **If** the number of Verona Values cards divided by the period is more than five
+      The period increases by one
+      The roach speed increases by one
