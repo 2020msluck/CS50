@@ -7,7 +7,15 @@ printf() - System.out.println();
 <br> int - integers
 
 ```C
+
+#include <cs50.h>
+#include <stdio.h>
+
+
  printf("hello, world\n");
+ float f = get_float("Float: ");
+ printf("hello,%f\n", f);
+ 
  int counter = 0; 
  counter = counter + 1;
  counter+=1;
@@ -25,4 +33,6 @@ printf() - System.out.println();
  {
   printf("Bleh");
  }
+ 
+ 
 ```
